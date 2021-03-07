@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MiaoHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoHN&show_icons=true&theme=Gradient)
+![MiaoHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoHN&show_icons=true&theme=radical)
 
 [![MiaoHN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiaoHN)](https://github.com/anuraghazra/github-readme-stats)
 
