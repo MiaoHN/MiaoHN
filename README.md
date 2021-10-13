@@ -1,5 +1,8 @@
 
-![MiaoHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaoHN&show_icons=true&theme=radical)
+<!-- wakatime badge -->
+[![wakatime](https://wakatime.com/badge/user/852869fa-f9fd-480a-b22f-267d26686193.svg)](https://wakatime.com/@852869fa-f9fd-480a-b22f-267d26686193)
+
+- 🌱 I’m currently learning ...
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MiaoHN)](https://github.com/anuraghazra/github-readme-stats)
 -->
