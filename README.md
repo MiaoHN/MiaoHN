@@ -24,9 +24,4 @@ I would be delighted if you could visit my [personal blog](https://miaohn.github
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiaoHN&show_icons=true&hide_title=true)](https://github.com/MiaoHN)
 
-## 🎉 Fun Facts
-
-- I go to the gym fifth a week.
-- I'm learning to play billiards and swim.
-
 Thanks for visiting my profile! 😄
