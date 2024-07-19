@@ -1,6 +1,10 @@
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+
 # Hi there! 👋
 
-I'm MiaoHN, and you can refer to me as 'Matt'. I'm currently pursuing my postgraduate studies at Xi'an Jiaotong University, with a keen focus on computer science and technology.
+I'm MiaoHN, currently pursuing my postgraduate studies at Xi'an Jiaotong University, with a keen focus on computer science and technology.
 
 ## 🔧 Skills
 
