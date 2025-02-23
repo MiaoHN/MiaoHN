@@ -4,7 +4,8 @@
 - Tools & Technologies: Vscode, vim, neovim, lazygit, IDEA, git
 - Email: 582418227@qq.com
 
-### Blog posts
+<details>
+  <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [论文笔记 - TextGCD](https://404notfixed.vercel.app/posts/textgcd/)
@@ -13,6 +14,9 @@
 - [CMU 15-445 | Project #1 - Buffer Pool](https://404notfixed.vercel.app/posts/cmu-15445-project1/)
 - [CMU 15-445 | Project #0 - C++ Primer](https://404notfixed.vercel.app/posts/cmu-15445-project0/)
 <!-- BLOG-POST-LIST:END -->
+
+</details>
+
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
