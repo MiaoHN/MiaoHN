@@ -1,13 +1,10 @@
 ### Hi there! 👋
 
-**Seeking 2025 C++ Backend Development Summer Intern.**
-
-
 - ​**Languages**: C/C++ | Python
 - ​**Backend Stack**: Linux/Shell | MySQL/Redis | Network Programming | STL
 - ​**Dev Tools**: VSCode/Vim | Git/GitHub Actions | gdb | CMake/CLion
 
-📮 ​**Contact**: [582418227@qq.com](mailto:582418227@qq.com) | [Resume](./resume.pdf)
+📮 ​**Contact**: [582418227@qq.com](mailto:582418227@qq.com)
 
 <details>
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
