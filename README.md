@@ -1,8 +1,13 @@
 ### Hi there! 👋
 
-- Programming Languages: C, C++, Python
-- Tools & Technologies: Vscode, vim, neovim, lazygit, IDEA, git
-- Email: 582418227@qq.com
+**Seeking 2025 C++ Backend Developer Positions**
+
+
+- ​**Languages**: C/C++ | Python
+- ​**Backend Stack**: Linux/Shell | MySQL/Redis | Network Programming | STL
+- ​**Dev Tools**: VSCode/Vim | Git/GitHub Actions | gdb | CMake/CLion
+
+📮 ​**Contact**: [582418227@qq.com](mailto:582418227@qq.com) | [Resume](#)
 
 <details>
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
