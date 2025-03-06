@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**Seeking 2025 C++ Backend Developer Positions**
+**Seeking 2025 C++ Backend Development Summer Intern.**
 
 
 - ​**Languages**: C/C++ | Python
