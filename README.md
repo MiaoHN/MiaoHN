@@ -10,11 +10,11 @@
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [论文笔记 - TextGCD](https://404notfixed.vercel.app/posts/textgcd/)
-- [CMU 15-445 | Project #3 - Query Execution](https://404notfixed.vercel.app/posts/cmu-15445-project3/)
-- [CMU 15-445 | Project #2 - Extendible Hash Index](https://404notfixed.vercel.app/posts/cmu-15445-project2/)
-- [CMU 15-445 | Project #1 - Buffer Pool](https://404notfixed.vercel.app/posts/cmu-15445-project1/)
-- [CMU 15-445 | Project #0 - C++ Primer](https://404notfixed.vercel.app/posts/cmu-15445-project0/)
+- [XV6 的中断是怎么做的？](https://miaohn.github.io/posts/xv6-trap/)
+- [2024 年终总结](https://miaohn.github.io/posts/2024-year-summary/)
+- [论文笔记 - TextGCD](https://miaohn.github.io/posts/textgcd/)
+- [CMU 15-445 | Project #3 - Query Execution](https://miaohn.github.io/posts/cmu-15445-project3/)
+- [CMU 15-445 | Project #2 - Extendible Hash Index](https://miaohn.github.io/posts/cmu-15445-project2/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
