@@ -10,11 +10,11 @@
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reading | 读《海边的卡夫卡》](https://miaohn.github.io/posts/kafka-on-the-shore/)
+- [2025 暑期面经整理](https://miaohn.github.io/posts/summer-intern-notes/)
 - [XV6 的中断是怎么做的？](https://miaohn.github.io/posts/xv6-trap/)
 - [2024 年终总结](https://miaohn.github.io/posts/2024-year-summary/)
 - [论文笔记 - TextGCD](https://miaohn.github.io/posts/textgcd/)
-- [CMU 15-445 | Project #3 - Query Execution](https://miaohn.github.io/posts/cmu-15445-project3/)
-- [CMU 15-445 | Project #2 - Extendible Hash Index](https://miaohn.github.io/posts/cmu-15445-project2/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
