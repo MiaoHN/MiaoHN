@@ -10,11 +10,11 @@
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts | 暑期实习一个月有感](https://miaohn.github.io/posts/intern-first-month/)
+- [MIT 6.5840 | Lab1: MapReduce](https://miaohn.github.io/posts/mit6-5840-0x01/)
+- [MIT 6.5840 | 学习札记](https://miaohn.github.io/posts/mit6-5840-0x00/)
 - [Reading | 读《海边的卡夫卡》](https://miaohn.github.io/posts/kafka-on-the-shore/)
 - [2025 暑期面经整理](https://miaohn.github.io/posts/summer-intern-notes/)
-- [XV6 的中断是怎么做的？](https://miaohn.github.io/posts/xv6-trap/)
-- [2024 年终总结](https://miaohn.github.io/posts/2024-year-summary/)
-- [论文笔记 - TextGCD](https://miaohn.github.io/posts/textgcd/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
