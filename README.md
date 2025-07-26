@@ -10,11 +10,11 @@
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Thoughts | 暑期实习一个月有感](https://miaohn.github.io/posts/intern-first-month/)
-- [MIT 6.5840 | Lab1: MapReduce](https://miaohn.github.io/posts/mit6-5840-0x01/)
-- [MIT 6.5840 | 学习札记](https://miaohn.github.io/posts/mit6-5840-0x00/)
-- [Reading | 读《海边的卡夫卡》](https://miaohn.github.io/posts/kafka-on-the-shore/)
-- [2025 暑期面经整理](https://miaohn.github.io/posts/summer-intern-notes/)
+- [XV6 的中断是怎么做的？](https://404notfixed.cn/posts/xv6-%E7%9A%84%E4%B8%AD%E6%96%AD%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E7%9A%84/)
+- [2024 年终总结](https://404notfixed.cn/posts/2024-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/)
+- [CMU 15-445 | Project 3 - Query Execution](https://404notfixed.cn/posts/cmu-15-445-project-3-query-execution/)
+- [CMU 15-445 | Project 2 - Extendible Hash Index](https://404notfixed.cn/posts/cmu-15-445-project-2-extendible-hash-index/)
+- [CMU 15-445 | Project 1 - Buffer Pool](https://404notfixed.cn/posts/cmu-15-445-project-1-buffer-pool/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
