@@ -11,10 +11,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [XV6 的中断是怎么做的？](https://404notfixed.cn/posts/xv6-trap/)
-- [2024 年终总结](https://404notfixed.cn/posts/2024-year-summary/)
 - [CMU 15-445 | Project 3 - Query Execution](https://404notfixed.cn/posts/cmu-15445-project3/)
 - [CMU 15-445 | Project 2 - Extendible Hash Index](https://404notfixed.cn/posts/cmu-15445-project2/)
 - [CMU 15-445 | Project 1 - Buffer Pool](https://404notfixed.cn/posts/cmu-15445-project1/)
+- [CMU 15-445 | Project 0 - C++ Primer](https://404notfixed.cn/posts/cmu-15445-project0/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
