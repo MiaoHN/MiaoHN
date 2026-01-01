@@ -7,6 +7,14 @@
 📮 ​**Contact**: [582418227@qq.com](mailto:582418227@qq.com)
 
 <details>
+  <summary><b>:books: &nbsp;Series of blog posts</b></summary>
+
+- [MIT 6.S081 学习札记](https://404notfixed.cn/categories/mit-6.s081/)
+- [CMU 15445 学习札记](https://404notfixed.cn/categories/cmu-15-445/)
+- [LevelDB 学习札记](https://404notfixed.cn/categories/LevelDB-学习札记/)
+</details>
+
+<details>
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
