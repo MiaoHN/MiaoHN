@@ -9,9 +9,9 @@
 <details>
   <summary><b>:books: &nbsp;Series of blog posts</b></summary>
 
-- [MIT 6.S081 学习札记](https://404notfixed.cn/categories/mit-6.s081/)
-- [CMU 15445 学习札记](https://404notfixed.cn/categories/cmu-15-445/)
-- [LevelDB 学习札记](https://404notfixed.cn/categories/LevelDB-学习札记/)
+- [MIT 6.S081 系列](https://404notfixed.cn/categories/mit-6.s081/)
+- [CMU 15445 系列](https://404notfixed.cn/categories/cmu-15-445/)
+- [LevelDB 系列](https://404notfixed.cn/categories/leveldb/)
 </details>
 
 <details>
