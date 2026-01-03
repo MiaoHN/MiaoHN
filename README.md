@@ -20,9 +20,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [LevelDB 学习札记 | 0x00 开篇](https://404notfixed.cn/posts/leveldb-0x00/)
 - [XV6 的中断是怎么做的？](https://404notfixed.cn/posts/xv6-trap/)
+- [TiRPC](https://404notfixed.cn/projects/tirpc/)
 - [CMU 15-445 | Project 3 - Query Execution](https://404notfixed.cn/posts/cmu-15445-project3/)
 - [CMU 15-445 | Project 2 - Extendible Hash Index](https://404notfixed.cn/posts/cmu-15445-project2/)
-- [CMU 15-445 | Project 1 - Buffer Pool](https://404notfixed.cn/posts/cmu-15445-project1/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
