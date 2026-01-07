@@ -4,7 +4,7 @@
 - ​**Backend Stack**: Linux/Shell | MySQL/Redis | Network Programming | STL
 - ​**Dev Tools**: VSCode/Vim | Git/GitHub Actions | gdb | CMake/CLion
 
-📮 ​**Contact**: [582418227@qq.com](mailto:582418227@qq.com)
+📮 ​**Contact**: [haonanmiao@foxmail.com](mailto:haonanmiao@foxmail.com)
 
 <details>
   <summary><b>:books: &nbsp;Series of blog posts</b></summary>
