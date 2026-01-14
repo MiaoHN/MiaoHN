@@ -18,11 +18,11 @@
   <summary><b>:memo: &nbsp;Latest blog posts</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [LevelDB | 0x02 数据存储和组织](https://404notfixed.cn/posts/leveldb-0x02/)
 - [LevelDB | 0x01 基本工具和数据结构](https://404notfixed.cn/posts/leveldb-0x01/)
 - [LevelDB | 0x00 开篇](https://404notfixed.cn/posts/leveldb-0x00/)
 - [XV6 的中断是怎么做的？](https://404notfixed.cn/posts/xv6-trap/)
 - [TiRPC](https://404notfixed.cn/projects/tirpc/)
-- [CMU 15-445 | Project 3 - Query Execution](https://404notfixed.cn/posts/cmu-15445-project3/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
